@@ -1,4 +1,4 @@
-pbr>=0.6,<1.0
+pbr>=0.10.0,<=0.10.0
 #
 # The greenlet package must be compiled with gcc and needs
 # the Python.h headers. Make sure you install the python-dev
